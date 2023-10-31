@@ -1,0 +1,23 @@
+body{
+    background-image: url('../images/fundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#form{
+    size: 50%;
+}
+#title{
+    border-radius: 8px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    align-self: center;
+}
+input{
+    width: 200px;
+    height: 40px;
+    align-self: center;
+    border-radius: 6px;
+    text-align-last: center;
+}
